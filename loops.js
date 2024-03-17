@@ -25,4 +25,19 @@ while (cont < 3) {
     cont += 1;
 }
 
-console.log('destino: ', destinoexist)
+console.log('destino: ', destinoexist);
+
+if(pass && destinoexist){
+    console.log('boa viagem');
+}
+else{
+    console.log('desculpe');
+}
+
+for (let i = 0; i < 3; i++) {
+    if (list[i] == destino) {
+        console.log('existe');
+        destinoexist = true;
+        break;
+    }
+}
