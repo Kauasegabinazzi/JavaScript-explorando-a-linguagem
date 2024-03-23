@@ -6,3 +6,4 @@
 // mes = 'teste';
 // sem const ou let  colocar - sobe para o escopo global
 // JS é case sensitive
+//
