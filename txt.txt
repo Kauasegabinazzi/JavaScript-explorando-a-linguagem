@@ -1,0 +1,8 @@
+// console.log(age+2);
+//console.log(10 + 20 * 3);
+// multiplica primeiro e depois soma
+
+//não fazer
+// mes = 'teste';
+// sem const ou let  colocar - sobe para o escopo global
+// JS é case sensitive
